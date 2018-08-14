@@ -1,2 +1,2 @@
-# sample
+# Sample
 For Demo Purpose Only
